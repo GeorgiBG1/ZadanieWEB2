@@ -1,0 +1,147 @@
+/*Nav bar*/
+.navbar{
+    background-color: #f93700 !important;
+    padding: 1.5rem;
+}
+.nav-search{
+    margin-right: 0px !important;
+    border-radius: 0px;
+}
+input>.nav-search{
+    padding-right: 132px;
+}
+.nav-magnifying-glass{
+    margin-right: 0px;
+}
+.font{
+    font-size: 1.5rem;
+    color: white !important;
+    text-decoration: none;
+}
+.button1{
+    width: 5rem;
+    background-color: #CAC3C3;
+    color: white;
+    border: none;
+}
+.text{
+    color: #f93700;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.text2{
+    color: gray;
+    font-size: 1.1rem;
+    font-weight:400;
+    text-align: left;
+}
+#button3{
+    background-color: #F93700;
+    border: none;
+    padding: 11px 15px;
+    color: white;
+    border-radius: 4px;
+}
+/*Container 1*/
+.div-images{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+}
+.font2{
+    font-weight: 500;
+    font-size: 1rem;
+}
+.rooms{
+    flex: 1 0 0%;
+}
+.col{
+    float: left;
+}
+p{
+    text-align: center;
+}
+.images{
+    width: 260px;
+    height: 260px;
+}
+.bathroom{
+    float: right; padding-right: 0px;
+}
+div>div>div>p{
+    margin-top: 6px;
+}
+.div-images>div>p{
+    padding: 10px;   
+}
+.div-images>div{
+    padding-top: 2.5rem;
+    padding-right: 2.5rem;
+}
+#withoutRPadding{
+    padding-right: 0;
+}
+/*End container*/
+/*Container 2*/
+.div-img{
+    display: flex;
+}
+.div-fall-collection{
+    background-color: #f93700;
+    margin-right: 0px;
+    padding-top: 2rem;
+    
+}
+.img-fall-collection{
+    flex: auto;
+}
+.image-fall{
+    float: right; width: 800px;
+}
+.coln{
+    width: 90%; margin: 40px auto;
+}
+/*End container*/
+/*Container 3*/
+.bottom-container{
+    width: 90%; margin: auto; text-align: center; background-color: #CAC3C3;
+}
+.container-footer-nav{
+    padding: 0rem; background-color: #F0E4E4!important;
+    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+}
+.container-footer-div{
+    width: 90%; margin-top: 10px; margin-bottom: 10px;
+}
+.font3{
+    color:gray;
+    text-decoration: none;
+}
+.call{
+	color: black;
+	border: none;
+	background-color: #CAC3C3;
+	border-radius: 5px;
+	width: 120px;
+	font-size: 16px;
+	padding: 8px 10px;
+	margin: 12px;
+	transition: 0.6s;
+}
+a{
+    text-decoration: none;
+    color: #CAC3C3;
+}
+.image-shipping{
+    width: 140px; background-color: rgb(240, 228, 228); border-radius: 100%; padding: 8px; margin-top: 40px; margin-bottom: 10px;
+}
+.f-20{
+    font-size: 20px;
+}
+.m-40{
+    margin-bottom: 40px;
+}
+/*End container*/

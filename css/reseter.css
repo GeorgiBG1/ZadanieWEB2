@@ -1,0 +1,22 @@
+html{
+    font-size: 16px;
+    font-family: 'Boutros Angham Regular', Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: #F0E4E4;
+}
+body,p,div,span,li,ul,nav,footer,header,h1,h2,h3,h4,h5,h6{
+    font-size: inherit;
+    box-sizing: inherit;
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-color: #F0E4E4;
+}
+.div-container-border{
+    
+    margin: auto;
+}
+.font-color{
+    color:#b6afaf;
+}
